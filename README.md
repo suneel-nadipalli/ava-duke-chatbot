@@ -3,6 +3,7 @@
 By Daniel Medina, Suneel Nadipalli, Sri Veerisetti, Dominique Buford
 
 Project frontend: https://github.com/medinardaniel/aipi-chatbot-frontend
+
 Project backend: https://github.com/medinardaniel/aipi-chatbot-flask
 
 ## Project Overview
