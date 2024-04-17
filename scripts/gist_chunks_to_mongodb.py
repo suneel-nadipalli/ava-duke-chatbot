@@ -12,14 +12,24 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import openai
 
+import configparser
+
+config = configparser.ConfigParser()
+
+config.read('configs/config.ini')
+
+MONGO_DB = config['MONGO_DB']
+
+SECRETS = config['SECRETS']
+
 # Define the OpenAI API key here
-openai.api_key = ''
+openai.api_key = SECRETS['openai_api_key']
 
 def get_database():
     """
     Purpose: Establish a connection to the MongoDB database.
     """
-    uri = "mongodb+srv://sriveerisetti:8TkNOyysCO4S3lBo@chatbot.w3bjnk6.mongodb.net/?retryWrites=true&w=majority&appName=Chatbot"
+    uri = MONGO_DB['db_uri']
     ca = certifi.where()
     # The MongoClient is used to establish a connection to the database.
     client = MongoClient(uri, tlsCAFile=ca)
@@ -110,8 +120,8 @@ def process_text_files(folder_path, collection):
                 text_content = file.read()
                 store_text_with_embedding(text_content, filename, collection)
 
-if __name__ == "__main__":
-    db = get_database()
-    collection = db['Duke5']
-    folder_path = "/content/Combo_Data"
-    process_text_files(folder_path, collection)
+# if __name__ == "__main__":
+#     db = get_database()
+#     collection = db['Duke5']
+#     folder_path = "/content/Combo_Data"
+#     process_text_files(folder_path, collection)

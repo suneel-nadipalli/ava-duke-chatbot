@@ -2,8 +2,16 @@
 import csv
 import openai
 
+import configparser
+
+config = configparser.ConfigParser()
+
+config.read('configs/config.ini')
+
+SECRETS = config['SECRETS']
+
 # Define the OpenAI API key here
-openai.api_key = ''
+openai.api_key = SECRETS['openai_api_key']
 
 def read_questions_from_csv(file_path):
     """
@@ -78,16 +86,16 @@ def save_questions_to_csv(questions, output_path):
         for question in questions:
             writer.writerow([question])
 
-if __name__ == "__main__":
-    # Here we define the input and output file paths
-    input_file_path = '/content/questions.csv'  
-    output_file_path = '/content/rephrased_questions.csv'  
+# if __name__ == "__main__":
+#     # Here we define the input and output file paths
+#     input_file_path = '/content/questions.csv'  
+#     output_file_path = '/content/rephrased_questions.csv'  
 
-    # Here we use the functions defined above to rephrase the questions
-    original_questions = read_questions_from_csv(input_file_path)
-    # We generate 700 rephrased questions
-    rephrased_questions = rephrase_questions(original_questions, 700) 
-    # We save the rephrased questions to a CSV file 
-    save_questions_to_csv(rephrased_questions, output_file_path)
-    # We print the total number of questions generated
-    print(f"Total questions generated: {len(rephrased_questions)}")
+#     # Here we use the functions defined above to rephrase the questions
+#     original_questions = read_questions_from_csv(input_file_path)
+#     # We generate 700 rephrased questions
+#     rephrased_questions = rephrase_questions(original_questions, 700) 
+#     # We save the rephrased questions to a CSV file 
+#     save_questions_to_csv(rephrased_questions, output_file_path)
+#     # We print the total number of questions generated
+#     print(f"Total questions generated: {len(rephrased_questions)}")
