@@ -1,0 +1,815 @@
+Academics
+1.	What classes are being offered to AIPI students in Fall 2021? 
+In the Fall semester of the AIPI program students take a fixed schedule of courses (electives are taken in the Spring).  Students should plan to register for the following courses:
+-	AIPI 503: Bootcamp [0 units] (On-campus, Online MEng, Online Certificate students)
+-	AIPI 510: Sourcing Data for Analytics [3 units] (On-campus, Online MEng, Online Certificate students)
+-	AIPI 520: Modeling Process & Algorithms [3 units] (On-campus & Online MEng students)
+-	AIPI 530: AI in Practice [3 units] (On-campus students)
+-	MENG 570: Business Fundamentals for Engineers [3 units] (On-campus students completing in 12 months)
+-	AIPI 501: Industry Seminar Series [0 units] (On-campus & Online MEng students)
+
+The full list of Pratt courses will be made available to students on June 28, 2021, when shopping carts open in DukeHub. 
+
+2.	When will the list of Fall 2021 courses be available?
+The list of all Fall 2021 courses offered by the Pratt School of Engineering will be made available to all incoming and continuing students on June 28, 2021, the day that shopping carts open. This list can be accessed using the Simple and Advanced Class Search functions in DukeHub.
+
+3.	When can I register for classes?
+Fall 2021 course registration for all graduate students will begin on July 7, 2021, in DukeHub. Students may continue making changes to their schedule during the Drop/Add period, which will end on September 3. After Drop/Add ends, students may no longer change their Fall 2021 schedules in DukeHub.  
+
+4.	How do I register for classes?
+All students register for classes through DukeHub, the self-service application that provides students with an array of information and direct access to academic, financial, and personal data. Access to DukeHub is gained using your NetID and password. For assistance with registration, please see the help guides linked here.
+
+
+5.	What classes outside of the AIPI curriculum can I count toward my technical electives requirement?
+Approved AIPI electives are listed on the AIPI website.  Additionally, students may take technical electives in other programs and departments across campus with approval from both the course instructor and the AIPI Director. Please note that graduate courses outside of AIPI require an instructor’s permission to enroll, and it is ultimately at the instructor’s discretion to determine whether or not AIPI students will be allowed into a particular class.
+
+6.	Can I audit classes? 
+Yes, AIPI students may audit courses on a space-available basis with consent of the instructor and the AIPI Director. Audited courses appear on your transcript and you will receive a grade of AD (indicating successful completion) that will not count toward your GPA. Audited courses do not count toward the fulfillment of AIPI degree requirements.
+
+7.	How many classes can I audit per semester?
+AIPI students may audit up to two courses per semester. 
+
+8.	How many classes should I register for? 
+In order for international students to remain in compliance with their F-1 visas, they must be registered as a full-time student. For visa purposes, full-time enrollment is considered 9.0 credits per semester (equivalent to three 3.0-credit courses). However, a typical full-time load for AIPI Campus students is 12.0 credits per semester (four 3.0-credit courses). Therefore, full-time residential graduate students pay tuition on a flat-rate, per-semester billing basis and are charged the equivalent of 12.0 credits per semester. Most full-time students enroll in at least 12.0 credits per semester.  AIPI Campus students take a fixed set of 4 courses in Fall semester (AIPI 510,520,530 and MENG 570).  AIPI Online students typically take 2 courses per semester (Fall: AIPI 510,520) and AIPI Certificate students take 1 course/semester (Fall: AIPI 510).  Online students pay tuition on a per-credit basis rather than a flat-rate per-semester basis.
+
+9.	What is the limit on credits I can take each semester?
+AIPI students may take up to 15.0 credits per semester. Full-time residential students on the pay-by-semester basis may take a fifth credit for free each semester (although we generally suggest a maximum of 4 courses as the workload can be intense). Students who attempt to enroll in more than 15.0 credits per semester will not be able to register.
+
+10.	What is Drop/Add? What happens during the Drop/Add period?
+The Drop/Add period occurs after the initial Registration window and continues until the end of the second week of classes. During the Drop/Add period, students may make changes to their schedules through DukeHub. At the end of the Drop/Add period (September 3, 2021), students’ schedules may no longer be changed in DukeHub and can only be changed with permission from their dean.
+
+11.	What is the last day that I can register for Fall 2021 classes?
+Students may make changes to their schedule up to the end of the Drop/Add period, which ends on September 3, 2021.
+
+
+12.	For Campus students, is there a formal process for selecting between the 12-month and 16-month plan?
+No, there is no specific documentation that must be provided if you choose to extend the AIPI Program to three semesters. However, the earlier you make the decision the better as it will likely affect your selection of courses in Fall and Spring semesters.
+
+13.	When do classes start?
+Fall 2021 classes begin on August 23, 2021.
+
+14.	What are the class meeting patterns for AIPI courses? 
+Each course typically meets once per week for 2 hours and 45 minutes. 
+
+15.	How much time is required outside of class for AIPI courses?
+AIPI classes are challenging and require significant work outside of class. Each week, you should expect to spend between 8-10 hours per course working outside of class.
+
+16.	How will classes be offered in Fall 2021 (e.g., all in-person, online, or a mix of the two)?
+While Duke will offer classes fully in-person for the Fall 2021 semester, we understand that the COVID-19 pandemic has created travel and visa challenges for many of our international students. AIPI classes will be offered both in-person and online for the Fall 2021 semester. Students who will be physically located in Durham, NC, USA, for the semester are expected to come to class in-person unless they are isolating or quarantining. Per guidance from the US government, any student on an F-1 visa who began their graduate program after March 2020 must take at least one in-person class per semester to remain in visa compliance. Because AIPI classes will be offered in-person to students who are in Durham, F-1 visaholders in the AIPI Program satisfy this requirement.
+
+17.	Where can I find other important dates related to academics?
+The 2021-2022 Duke Academic Calendar can be found here. We strongly recommend students bookmark this page in their browser for easy reference.
+
+18.	Where do I find other important information about the AIPI Program?
+The AIPI student website contains a wealth of information about the AIPI program and life at Duke. University policies surrounding academics may also be found on the Office of the University Registrar website.
+
+19.	Is there a formal process for designating my elective track? 
+No, there is not currently a formal process to designate your elective track. We do not require students to rigidly adhere to one elective track. Students may choose electives that fit their professional goals. The elective tracks are meant as guides for students to align and develop skills toward a particular area, and those students who complete a track may list it on their resume.
+
+20.	What do I do if I want to change my elective track?
+If you wish to change your elective track, there is no formal action that you need to take. However, it is a good idea to speak with the program director about your elective course plans, as they can help steer you toward courses that align with your professional aspirations.
+
+21.	How can I track my degree progress?
+Students can track their degree progress using Stellic, a self-service tool that enables students to see which classes they have taken toward their degree and plan for future semesters. Students are strongly encouraged to use Stellic throughout the course of the AIPI Program so that they can stay on track to graduate within the timeframe they choose (two or three semesters).
+
+Tuition and Billing
+22.	How much does it cost to audit a course? 
+For AIPI students who pay tuition on a pay-by-semester basis (as is the case for all full-time residential AIPI students), there is no charge for auditing a course. For AIPI Online students who pay tuition on a pay-by-credit basis, there is a charge of $535 per audited course.
+
+23.	How are tuition and fees assessed for AIPI students?
+Full-time students in the AIPI Campus Program are automatically set up on a pay-per-semester billing system, meaning they will be charged the equivalent of four separate courses. Students enrolling as AIPI Online and Certificate students will automatically be set up for payments on a per-credit basis. 
+
+24.	Can I change my tuition billing basis from per-semester to per-credit?
+Yes, your tuition can be changed from pay-by-semester to pay-by-credit if you are switching to part-time status. (Please note that F-1 visaholders must be enrolled full-time for at least 9.0 credits per semester). If you intend to take less than the typical load (four courses for full-time), please contact Kelsey Liddle (kelsey.liddle@duke.edu), the Pratt Student Records Coordinator, to make this change. The last day for making changes to a student’s billing structure is the last day of Drop/Add in that semester.
+
+25.	Is financial aid available to AIPI students? 
+Because the AIPI degree is a professional degree rather than a research degree, most students pay their own tuition costs. For more information on the most common financial aid resources that our students utilize, please click the link here. 
+
+26.	I’m not going to be on campus in the Fall 2021 semester due to COVID-19. Do I still have to pay fees?
+If you will not be on campus in the Fall 2021 semester due to COVID-19, please contact Kelsey Liddle (kelsey.liddle@duke.edu), the Pratt Student Records Coordinator, regarding student fees.
+
+Working While a Student
+27.	How do I get a Teaching Assistant (TA) position?
+Teaching assistantships are a common way that AIPI students can work on campus, earn money, and give of their time to the AIPI community. Most often, course instructors approach students who have done well in their course and ask them to TA in a subsequent semester. Other times, students will voice their interest to the instructor to initiate the conversation about a TA position. Toward the beginning of each semester, there are usually a few TA positions to be filled, and an announcement about open positions will be emailed out to students. TA positions are not often available for incoming students, as these positions are typically filled by continuing students who have taken the course before.
+
+In order to be on Duke’s payroll, all students must have a Social Security Number on file. Due to COVID-19, processing times for Social Security Number applications have been delayed. If a student intends to work on campus and be paid as an employee of the University, then that student should plan to apply for a Social Security Number. More information about applying for a Social Security Number may be found here. 
+
+28.	What other employment positions are available for students on campus? 
+In addition to Teaching Assistantships, AIPI students can work in a variety of roles around campus, such as the campus libraries and various departments within Duke. Some departments have research assistantships as well. These positions are paid at an hourly rate, and some positions are posted and filled just a week or two before classes begin each semester. DukeList is the best place to look for these opportunities, but other opportunities may be advertised via email or word-of-mouth. Please see DukeList for more information.
+
+29.	Where can I find information about student employment?
+DukeList is the best place to look for these opportunities, but other opportunities may be advertised via email or word-of-mouth. Please see DukeList for more information.
+
+30.	I’m an international student. Can I work off-campus?
+International students on F-1 visas are not permitted to work off-campus except as part of their Curricular Practical Training (CPT). Students who are F-1 visaholders may work in on-campus positions, such as teaching assistantships, but must have a Social Security Number to be on Duke payroll.
+
+Student Services
+31.	I don’t want to live alone, but I don’t know anyone else at Duke. How do I find a roommate?
+The onboarding checklist email sent from Bridget Kerwin included a number of resources regarding housing. Two resources of particular note if you are looking for a roommate are DukeList and the International House (I-House) listserv. DukeList is a forum for posting information on a range of topics to other Duke students, faculty, and staff. The I-House listserv is a great list to join if you are newly arrived to Duke and/or Durham and are looking for an apartment, roommate, and/or ride-sharing. 
+
+32.	How do I find out about student activities and clubs to participate in?
+There is a wide variety of student activities and clubs to get involved in at Duke.  A partial list of activities/clubs of interest is contained on the AIPI student website.  You are also encouraged to check out the Duke Event Calendar to check out upcoming events in a variety of topics, including the arts, athletics, academics, and civic engagement.
+
+
+For International Students
+33.	I am an international student hoping to come to the United States for Fall 2021, but my home country is backlogged with visa applications due to COVID-19. What should I do?
+You have several options to choose from in this situation: (a) defer your enrollment for up to one year; (b) enroll in courses with a hybrid format if you believe you can arrive in the United States within 30 days of the first day of class; or (c) enroll in all online courses, remain in your home country for the Fall 2021 semester, and join us on campus in Spring 2022.
+
+Duke will be offering Fall 2021 courses in a hybrid format, so that students who are unable to travel to the United States are still able to participate in classes and make progress toward their degrees. In the AIPI Program, if you anticipate that you will be able to make it to Durham in time to participate in-person (i.e., by September 22), you should register for the hybrid sections of the courses that you enroll in. You may also enroll in the fully-online section of a course if you know that you will be unable to travel to the United States for the Fall 2021 semester. 
+
+34.	I hope to arrive in the United States for Fall 2021 classes, but it might be after drop/add ends. What should I do?
+Students on F-1 visas have until 30 days after the first day of class to arrive in the United States. For Fall 2021, classes begin on August 23, so students must arrive in the United States by September 22. Drop/Add ends on September 3, after which students may not make changes to their Fall 2021 course schedules. Therefore, we recommend that if you anticipate arriving in the United States between September 3 and September 22, you enroll in Fall classes that are being offered according to the Hybrid (i.e., both in-person and online accessible) model. Begin taking these classes online at the beginning of the semester, and if you are able to reach the United States by September 22, you will be able to continue your studies in-person. If you are unable to reach the United States by September 22, you can continue taking your classes online for the Fall 2021 semester.
+
+35.	Whom do I contact about other visa questions I may have? 
+In the Duke Visa Services Office, Betty Henderson (betty.henderson@duke.edu) is the Visa Services Advisor for Pratt students. You may also contact Kelsey Liddle (kelsey.liddle@duke.edu), the Pratt Student Records Coordinator, for additional visa-related questions. 
+
+Miscellaneous
+36.	How do I get my NetID and password?
+You should receive a separate email from the Office of Information Technology (OIT) with instructions to set up your NetID and email alias. Your NetID is your electronic key to online resources, including your Duke email account, DukeHub, Sakai, MyDuke, Box cloud storage, and more. Please set up your NetID as soon as possible. 
+
+37.	When will I get access to my Duke email?
+Once you set up your NetID (see above), you will be able to access your email. This site provides information about how to access your Duke email account. Once you have access to your Duke email, please begin checking and using this address. Your Duke email address will become the primary source for all your communications from Duke.
+
+38.	What can I do this summer to prepare for AIPI?
+While some of our students come directly from undergraduate programs which focus heavily on programming and/or math, many students come from other branches of engineering, science or medicine, or join our program after a few years of industry experience.  Spending some time before the Fall semester start brushing up on your programming (Python preferable) and math skills will help make the learning curve a bit easier once classes start.  If you are not comfortable with Python programming and math (calculus, probability and statistics, basic linear algebra), we highly recommend pursuing some independent study before the Bootcamp begins in late July.  To assist you we have compiled some recommended resources on the AIPI student site.
+
+
+Duke's AI Master of Engineering
+Duke's program is recognized as one of the top applied AI/ML graduate programs in the world
+
+Our Master of Engineering in Artificial Intelligence for Product Innovation students develop strong technical skills in AI and machine learning coupled with a deep understanding of how to design and build AI-powered software products.
+
+Graduates go on to work in leading companies solving challenging problems across many industries—including tech, healthcare, energy, retail, transportation, and finance. Some of our students go on to found their own entrepreneurial ventures.
+
+At Duke, you'll learn to:
+
+Design and develop machine learning systems for scale, security and usability
+Apply traditional machine learning and deep learning models to solve challenging problems across domains
+Build full-stack software applications integrating machine learning models utilizing the latest methods and technologies
+Design and deploy software applications in production
+This program may be for you if you have an educational or work background in engineering, science or technology and aspire to a career working hands-on in AI. See our application requirements for details.
+
+INDUSTRY-CONNECTED CURRICULUM
+This degree's core curriculum was developed in collaboration with the industry.
+
+Build a personal portfolio of real-world, hands-on AI and machine-learning projects
+Receive individual advising, academic and career, from outstanding, world-class faculty
+Be engaged with peers from around the world as part of a small, intimate, and immersive cohort
+We prepare graduates who are ready to solve problems on the job, starting on Day 1.  
+
+Our curriculum covers the theory and application of AI and machine learning, heavily emphasizing hands-on learning via real-world problems and projects in each course.  
+
+Students also have two opportunities to work directly with industry leaders during the program: through the semester-long industry project and their summer internship.
+
+FLEXIBILITY AND OPTIONS
+12 or 16 months on-campus or 24 months online
+
+Innovative and immersive, you can complete this Duke master's degree in 12 or 16 months on-campus, or online part-time in just 24 months.
+
+12-Month Accelerated Option
+Significantly more affordable than a traditional master's program—in this option, pay tuition for only two (2) full semesters plus three (3) summer session credits.
+
+16-Month Standard Track
+Pursue this degree over three (3) full semesters plus the summer session—allowing you time to take additional electives and specialize. Students pursuing this path may take a partial or whole load of courses during their final semester.
+
+4+1: BSE+Master's Option for Duke Undergraduates
+Duke undergraduate students can complete undergrad and this master's degree in just five (5) years.
+
+Scholarship opportunity: The AI 4+1 BSE+Master's scholarship covers 20 percent of the costs. Eligibility and other conditions apply.
+
+MD+MEng in Artificial Intelligence Dual Degree
+Medical students at Duke can complete this degree during their third year. See Duke MEDx website and School of Medicine bulletin for details.
+
+Scholarship opportunity: The MD+MEng AI scholarship covers 20 percent of the costs. Eligibility and other conditions apply.
+
+
+CURRICULUM SCHEDULES
+The core of the curriculum follows a cohort-based course sequence
+
+On-Campus Accelerated Option: 12 Months
+
+Summer - 
+
+Pre-requisite
+AIPI 503: Python & Data Science Math Bootcamp
+
+Fall - 
+
+AIPI 510: Sourcing Data for Analytics
+
+AIPI 520: Modeling Process & Algorithms
+
+AIPI Departmental Elective
+
+MENG 570: Business Fundamentals for Engineers
+
+AIPI 501: Industry Seminar Series
+
+EGR 590: Career Strategy & Design
+
+Spring - 
+
+MENG 540: Management of High-tech Industries
+
+AIPI 540: Deep Learning Applications
+
+AIPI 549: Industry Capstone Project
+
+Technical Elective 1
+
+Technical Elective 2
+
+Summer - 
+
+AIPI 560: Legal, Societal & Ethical Implications of AI
+
+AIPI 561: Operationalizing AI (MLOps)
+
+Industry Internship or Project
+
+
+On-Campus Standard Track: 16 Months
+
+Summer - 
+
+Pre-requisite
+AIPI 503: Python & Data Science Math Bootcamp 
+
+Fall 1 - 
+
+AIPI 510: Sourcing Data for Analytics
+
+AIPI 520: Modeling Process & Algorithms
+
+AIPI Departmental Elective
+
+MENG 570: Business Fundamentals for Engineers
+
+AIPI 501: Industry Seminar Series
+
+EGR 590: Career Strategy & Design
+
+Spring - 
+
+MENG 540: Management of High-tech Industries
+
+AIPI 540: Deep Learning Applications
+
+AIPI 549: Industry Capstone Project
+
+Technical Elective 1
+
+Summer - 
+
+AIPI 560: Legal, Societal & Ethical Implications of AI
+
+AIPI 561: Operationalizing AI (MLOps)
+
+Industry Internship or Project
+
+Fall 2- 
+
+AIPI Departmental Elective
+
+Technical Elective 2
+
+
+DEGREE REQUIREMENTS
+Pre-Program Bootcamp
+Summer Online Python & Data Science Math Boot Camp More »
+10 Courses
+Four (4) Technical AI/ML courses—a strong technical foundation
+Three (3) Product Development courses—developed with Duke's Law School and Fuqua School of Business including the business, legal & ethical aspects of AI products
+Three (3) Technical electives—specialize in preparation for your chosen career
+Browse course descriptions »
+
+2 Industry Experiences
+Industry project—design a solution to an authentic opportunity offered by a sponsoring organization
+A summer internship or industry project—gain industry experience
+More »
+
+Additional Requirements
+Learn from leaders building AI products during regular industry seminars
+Jump-start your professional development with our Career Strategy and Design workshop for on-campus students
+Meet peers and faculty during two (2) required residencies on the Duke campus for online students
+
+
+The choice of online or on-campus is up to you—all students take the same courses, learn from the same faculty, and earn the same Duke degree.
+
+COMPARE ONLINE AND ON-CAMPUS
+
+Online(part-time): 
+- Time to Degree: 24 months 
+- Python & Data Science Math Boot Camp: online 4-week part-time
+- Class Experience: live and recorded classes 
+- Class Experience: online interaction with peers and faculty 
+- Professional Development: two spring residences on campus at Duke 
+- Professional Development: industry seminar series 
+- Academic Advising: online interaction with a faculty advisor 
+- Academic Advising: in-person interaction during on-campus residencies 
+- Career Services & Professional Development: support from career services professionals specialized in assisting engineering master's students
+
+On-campus (full-time): 
+- Time to Degree: 12 months or 16 months
+- Python & Data Science Math Boot Camp: Online 4-week part-time
+- Class Experience: Class attendance at Duke
+- Class Experience: In-person and online interaction with faculty and peers
+- Professional Development: Industry seminar series
+- Academic Advising: In-person and online interaction with a faculty advisor
+- Career Services & Professional Development: Support from career services professionals specialized in assisting engineering master's students 6-week Career Strategy and Design workshop
+
+
+2024-2025 CAMPUS TUITION, FEES, AND ESTIMATED EXPENSES
+Tuition for campus-based Duke Master of Engineering programs for the 2024-2025 academic year is $32,990 per semester taken at the university.
+
+Tuition for the Master of Engineering in AI over two semesters and a summer session would result in a total tuition cost of $75,877. The internship course does not incur tuition charges.
+
+Fall 2024: 
+- Tuition: $32,990
+- Health Fee: $487
+- Health Insurance: $3,381
+- Graduate Student Activity Fee: $18
+- Graduate Student Service Fee: $12
+- Transcript Fee: $120
+- Recreation Fee: $190
+- Room: $6,008
+- Board: $1880
+- Book & Supplies: $322
+- Local Transportation: $904
+- Personal & Misc.: $1,896
+- Total Cost of Attendee for Fall 2024: $48,208
+
+
+Spring 2025: 
+- Tuition: $32,990
+- Health Fee: $487
+- Health Insurance: $0
+- Graduate Student Activity Fee: $18
+- Graduate Student Service Fee: $12
+- Transcript Fee: $0
+- Recreation Fee: $190
+- Room: $7,510
+- Board: $2,350 
+- Book & Supplies: $322
+- Local Transportation: $1,130
+- Personal & Misc.: $2,370 
+- Total Cost of Attendee for Spring 2025: $47,379
+
+Summer 2025: 
+- Tuition: $9,897
+- Health Fee: $225
+- Health Insurance: 
+- Graduate Student Activity Fee: 
+- Graduate Student Service Fee: 
+- Transcript Fee: 
+- Recreation Fee: 
+- Room: $4,506
+- Board: $1,410
+- Book & Supplies: $167 
+- Local Transportation: $678 
+- Personal & Misc.: $1,422
+- Total Cost of Attendee for Summer 2025: $18,305
+
+*Tuition, fees, and estimates are subject to confirmation each May
+
+DURATION
+The normal duration of the Master of Engineering in AI program is one year of study (2 semesters and a summer session); however, the program can be extended for an additional Fall semester to complete in 16 months. *The estimated tuition cost of the Extended Track is $85,774 - $95,671, depending on number of credits taken in the final semester.
+The normal load is four courses (12 units) per semester in the first year
+Tuition, fees, and expense estimates are subject to confirmation each May
+Purchase of health insurance is required unless you can show proof of comparable private insurance coverage
+
+
+Online Master's Program
+
+Tuition for online Duke Master of Engineering programs for the 2024-2025 academic year is $9,897 per course taken at the university.
+
+In general, completion of the 30 required credits over five semesters would result in a total tuition cost of $98,970. Please note that the internship courses do not incur tuition charges.
+
+2024-2025 ONLINE TUITION, FEES, AND ESTIMATED EXPENSES
+
+- Tuition: $98,970
+- Transcript Fee: $120 
+- Books: $644
+- Total: $99,734
+
+Notes
+* Students typically take two courses per semester. Tuition, fees, and estimates are subject to confirmation each May. Rates subject to change
+
+Also:
+
+Domestic students can estimate $438 in loan fees per semester if securing student loans.
+No tuition is charged for course credits received for the internship, internship assessment, or residency courses. There is a room and board fee associated with residency
+There is no charge for registration for students in Duke Master of Engineering programs.
+
+TRANSCRIPT FEE
+All entering students will be charged a one-time mandatory fee of $120 for transcripts in the first semester. This fee entitles the student to an unlimited number of Duke transcripts.
+
+PAYMENT OF ACCOUNTS
+The Office of the Bursar will issue invoices to registered students for tuition, fees, and other charges approximately four to six weeks before the beginning of classes each semester. The total amount due on the invoice is payable by the invoice's late payment date, normally one week before the beginning of classes. A student is required to pay all invoices as presented and will be in default if the total amount is not paid in full by the due date. A student in default will not be allowed to receive a transcript of academic records or a diploma at graduation.
+
+Contact Duke's Office of the Bursar for:
+
+Monthly Payment Option
+Late Payment Charge
+Refunds for Withdrawal from School during fall and spring semesters
+
+Online Graduate Certificate Program
+
+TUITION
+Tuition for the Graduate Certificate in AI Foundations for Product Innovation in the 2024-2025 academic year is $8,364 per course.
+
+There are two semesters per academic year. Therefore, students typically take one course per semester. At current rates, completing the four required courses to earn a stand-alone online certificate would result in a total tuition cost of $33,456.
+
+TRANSCRIPT FEE
+All entering students will be charged a one-time mandatory fee of $120 for transcripts in the first semester. This fee entitles the student to an unlimited number of Duke transcripts.
+
+NOT ELIGIBLE FOR VA BENEFITS OR FEDERAL STUDENT AID
+These stand-alone online certificate programs are not eligible for VA benefits or federal student aid.
+
+IMPORTANT NOTE FOR INTERNATIONAL APPLICANTS
+Please Note: This stand-alone online certificate program does NOT qualify students for U.S. visa sponsorship.
+
+GAINFUL EMPLOYMENT DISCLOSURES*
+Program Length
+
+Typically 15 months for AI Foundations for Product Innovation Certificate (1 course per semester, including summer)
+Program Costs
+
+The amounts shown below include costs for the entire program, assuming normal time to completion. There may be additional costs for living expenses. Note that this information is subject to change:
+
+- Tuition: $8,364 per 3-credit class, and a total of $33,456 for the certificate **
+- Transcript Fee: $120 
+- Books: $322
+- Total: $33,898
+
+Notes
+
+** Duke may change its tuition for each academic year, and this estimate is based on current academic year tuition charges
+
+Student Loans
+
+Information about average student debt, monthly debt expense and debt interest rate have been withheld since fewer than 10 students have completed this program
+Job Placement Rates
+
+We are not currently required to calculate a job placement rate for program completers
+Program graduates are employed in the following fields:
+Information Technology
+Manufacturing
+Science, Technology, Engineering, and Mathematics
+Transportation, Distribution, and Logistics
+The program does not meet any licensing requirements
+Additional Information—Date Created: 3/15/2021
+* These disclosures are required by the U.S. Department of Education
+
+For more information, please visit meng.duke.edu »
+
+Limited merit-based financial aid is available to highly qualified candidates through academic scholarships emphasizing increasing diversity within the program. U.S. Citizens or Permanent Residents who are underrepresented minorities may receive up to 50 percent per year in tuition scholarships through our Diversity Scholarships. All applicants to the AI program are considered for available financial assistance at the time of program application.
+
+More information is available at meng.duke.edu »
+
+The Pratt School of Engineering's 4+1: BSE+Master option allows Duke students to earn an undergraduate degree and a master's in five years. Students may choose to start the Master of Engineering in Artificial Intelligence (AI MEng) during their undergraduate senior year.
+
+Students who receive admission to the AI MEng program through 4+1 may allocate up to four (4) graduate courses taken in their senior year toward Master of Engineering requirements. In addition, participating students may take graduate-level electives or AI MEng core courses in their senior year. This provides greater flexibility when scheduling the fifth year, and Duke 4+1 students are eligible for the AI MEng Duke 4+1 scholarship.
+
+Further details may be found on the 4+1: BSE+Master's webpage. To discuss AI MEng course options for senior year, contact program director Jon Reifschneider at jon.reifschneider@duke.edu.
+
+AIPI 503: Python & Data Science Bootcamp- This four-week online bootcamp will help you build proficiency in the use of Python for data science as well as basic software engineering principles and tools. It covers foundational concepts and provides hands-on experience with critical skills including loading, cleaning, manipulating, visualizing, analyzing and interpreting data. Upon completion of the bootcamp, you will have the skills to identify, formulate and solve practical data analysis problems using Python. The first two weekly modules are an introduction to basic Python data structures and control flow. From there, students will build proficiency with three Python libraries critical for data science: NumPy, Pandas, and Matplotlib. Students who are proficient in Python as well as the data science libraries listed may request to test out of the bootcamp. Waivers are granted at the program director’s discretion upon successfully completing the proficiency test.
+
+AIPI 510: Sourcing Data for Analytics- In industry, one of the main activities, and challenges, of implementing machine learning applications are collecting data to use in modeling. This course introduces students to methods and tools used for data collection, storage, manipulation, analysis and visualization. The first segment of the course will be an introduction to numerical programming focused on building skills in working with data via the Numpy and Pandas libraries, two of the most common tools used by teams working with data and modeling. Technical aspects covered will include the types of data, methods of sourcing data via the web, APIs, and from domain-specific sensors and hardware (IoT devices), an increasingly common source of analytics data in technical industries. The course also introduces methods and tools for evaluating the quality of data, performing basic exploratory data analysis, and pre-processing data for use in analytics. Non-technical aspects covered include an introduction to data privacy, GDPR, regulatory issues, bias, and industry-specific concerns regarding data usage.
+
+AIPI 520: Modeling Process & Algorithms- This course is an introduction to the modeling process and best practices in model creation, interpretation, validation, and selection of models for different uses. The primary machine learning algorithms, both supervised and unsupervised, are introduced and students become familiar with both the mathematical theory and the programming application of the models. The primary focus is on statistical learning approaches but the course also introduces deep learning and its applications. At the end of this course, students should have a solid understanding of the end-to-end modeling process and the different types of model algorithms along with the strengths, weaknesses, assumptions, and use cases for each type, and be capable of training and using models in Python.  Students who have taken one or more prior machine learning courses in their undergraduate institution will have the option to take an additional technical elective instead of AIPI 520.
+
+AIPI 540: Deep Learning Applications- This course focuses on the primary use cases of deep learning to solve challenging problems particularly in the areas of computer vision, natural language processing and recommendation systems. Students will develop an understanding of both the mathematical theory and programmatic implementation of neural networks using Python.  The course includes significant hands-on team-based project work and an emphasis on self-discovery.  The semester will be split into three core modules: computer vision, NLP, and recommendation systems.  Each module will include lectures, assignments, a team project, and a review of recent research in the field. 
+
+AIPI 561: Operationalizing AI (MLOps)- Deploying AI in production requires consideration of factors such as online model training, scaling, integration with software/hardware products, monitoring/support, security and failure resiliency.  This course introduces students via real-world case studies to methods and best practices in deploying AI operationally within products and services, including both technology and support infrastructure considerations. The course will also introduce available technologies for working with Big Data in industries that require specialized infrastructure and tools due to the volume of data.
+
+AIPI 501: Industry Seminar Series- Students will attend a weekly seminar series featuring industry leaders discussing the opportunities, challenges and learnings they have gained from applying AI to products and services in their industry. Speakers will present live in-classroom or via video conference.  The emphasis in the selection of speakers will be placed on representing more traditional industries that are poised to be disrupted by AI such as agriculture, health care/biotech, energy and environment, and manufacturing.  The seminar series will reinforce the concepts learned in the core courses and expand students’ intuition for the opportunities to apply AI within more complex and/or traditional industries.
+
+AIPI 560: Legal, Societal & Ethical Implications of AI- Deploying AI within products and services has implications well beyond the technical considerations, which often include change management of operational workflows or staffing levels, data privacy considerations, bias risks and other ethical implications, and industry-specific regulations on the use of data and models operationally.  This course will introduce students to the key areas of consideration when deploying products that contain AI:
+
+Legal implications and industry regulation
+Ethical considerations
+Change management and organizational/societal implications
+Case studies will be used extensively to provide real-world examples.
+
+MENG 540: Management of High-Tech Industries- The purpose of this course is to empower students to become collaborative, ethical leaders in the globalized, 21st-century workplace. Students learn concepts and practice skills that will enable them to transition from being an engineering sole contributor to managing and leading others as a business professional. Students gain a sound understanding of management and leadership; increase awareness of their own management and leadership styles; build and practice competencies essential for team success (e.g., effective communication, collaboration, conflict resolution); and become ethical leaders above reproach. Emphasis is on leading teams in a volatile, complex and interdependent world.
+
+MENG 570: Business Fundamentals for Engineers- This comprehensive course examines core and evolving concepts in the business fundamentals of successful technology-based companies including Business Plan Development & Strategies, Marketing, Product & Process Development processes, Intellectual Property, Accounting, Finance, and Operations. Students will learn the fundamentals essential to understanding all aspects of a business and will be able to converse in some depth in each of the areas studied upon completion. Other topics will include Supply Chain Management, Stage-Gate Development Cycles, Balances Scorecards, Blue Ocean Strategy, and Disruptive Technologies.
+
+AIPI 530: Optimization in Practice- Optimization is the ultimate skill in artificial intelligence and prescriptive analytics allowing practitioners to generate the best actionable solutions for business needs. This class will give students required skills to mathematically formulate relevant business problems as optimization models, use leading software modeling syntax and solvers to generate optimum solutions and meaningfully interpret these solutions. We will use both SAS/Optmodel and Python/Pyomo to give student experience with proprietary and open-source optimization software. Focus will be on problem formulation and results interpretation.
+
+AIPI 531: Deep Reinforcement Learning Applications- This course will cover advanced sequential decision-making topics in AI and will consist of two parts: 1) deep reinforcement learning theory and 2) deep reinforcement learning applications. Deep reinforcement learning combines reinforcement learning and deep learning. The theory module will introduce students to major deep reinforcement learning algorithms, modeling process, and programming. The applications module will include case studies on the practical applications of deep reinforcement learning in industry. This is a project-based course with extensive Pytorch/Tensorflow hands-on exercises. Students will also have an opportunity to improve their GitHub profile by working on projects.
+
+AIPI 571 / IDS 721: Data Analysis at Scale in the Cloud- This course is designed to give students a comprehensive view of cloud computing including Big Data and Machine Learning. A variety of learning resources will be used including interactive labs on Cloud Platforms (Google, AWS, Azure). This is a project-based course with extensive hands-on assignments.
+
+AIPI 590-01: Large Language Models for Generative AI- This course focuses on the emerging field of Generative AI with specific emphasis on Large Language Models (LLMs).  Both the theory and practical application of LLMs will be covered, with significant hands-on project work.  Students will work with LLMs to develop software applications and in the process will gain an understanding of the opportunities, limitations, and practical strategies for implementing generative AI effectively.  The course will also explore the nature of generative AI models relative to human intelligence, the role that generative AI plays in the path towards artificial general intelligence (AGI), and the opportunities and risks that the current trajectory of generative AI development is creating.
+
+AIPI 590-02: Applied Computer Vision- Computer vision is a rapidly evolving field with broad applications in industries ranging from healthcare and automotive to entertainment and agriculture. This course is designed to equip students with the knowledge and practical skills required to understand, develop, and deploy deep learning based computer vision systems for solving real-world problems. Students will delve into the fundamental concepts of computer vision, gain hands-on experience with state-of-the-art tools and libraries, and work on projects that tackle real-world challenges.  Topics covered include image classification, object detection, segmentation and generation.  Emphasis will be placed on building scalable data and modeling pipelines suitable for real-world application.
+
+AIPI 590-03: Emerging Trends in Explainable AI- This course introduces students to emerging trends in XAI (Explainable AI), including Human-AI interaction, ML interpretability and transparency techniques, adversarial attacks and defenses, and red-teaming. Discussions around the regulatory landscape, ethical considerations, and security will be balanced with hands-on experience with emerging tools and approaches in XAI. 
+
+BIOSTAT 709: Observational Studies- Methods for causal inference, including confounding and selection bias in observational or quasi-experimental research designs, propensity score methodology, instrumental variables and methods for non-compliance in randomized clinical trials.
+
+BME 580: Biomedical Data Science- This course will teach a combination of theory and application of biomedical data science principles using multi-scale biomedical data; including multi-omics, wearable sensor, and electronic health records data. Basic principles of data mining, exploratory data analysis, and statistics will be reviewed, and students will be introduced to supervised and unsupervised machine learning and model evaluation and selection methods. Methodology learned in classes will be applied in the assignments and class project to real-world multi-omics, wearable sensor, and electronic health records data.
+
+CYBERSEC 511: Cybersecurity in the Software Development Lifecycle- Teaches students about all steps of the software development lifecycle and the role Cybersecurity design principles play in requirements definition, design, development, testing, and maintenance. Tools and techniques to provide software security analysis and software assurance will be explored including software reverse engineering.
+
+CYBERSEC 520: Applying Machine Learning to Advance Cybersecurity- The use of machine learning and AI is becoming more prevalent for collecting and analyzing data as its consolidation increases in value. Cyberattacks seek to steal, deny access, misrepresent (such as deepfakes), or compromise the privacy of information. Students will explore the power of machine learning and AI’s use in enhancing Cybersecurity tools across the NIST Framework and also in detecting and exploiting vulnerabilities in timeframes and ways heretofore unthinkable.
+
+ECE 564: Mobile App Development- Explores the world of mobile application development with a focus on the needs of engineers. Centered on the Apple environment, with the development environment being on OS X and the target environment being an iOS device- iPad, iPhone, iPod Touch or Apple Watch. Real-world- and context-focused on the common programming patterns for engineers in academia or business- standalone apps, apps connected to other systems, apps connected to the cloud. Covers fundamentals essential to understanding all aspects of app development. Taught in a team environment. Students are required to present their project proposals and deliver an app as a final project.
+
+ECE 663: ML in Adversarial Settings- Machine learning is being widely deployed in many aspects of our society. Our vision is that machine learning systems will become a new attack surface and attackers will exploit the vulnerabilities in machine learning algorithms and systems to subvert their security and privacy. In this course, we will discuss security and privacy attacks to machine learning systems and state-of-the-art defenses against them.
+
+ECE 682D: Probabilistic Machine Learning- Introduction to concepts in probabilistic machine learning with a focus on discriminative and hierarchical generative models. Topics include directed and undirected graphical models, kernel methods, exact and approximate parameter estimation methods, and structure learning. The course assumes a prior background in linear algebra and probability and statistics.
+
+EGRMGMT 575: Software Quality Management- This class will introduce students to five different business personas that play a key role in the software development lifecycle—customer, software engineer, software release/quality manager, customer support engineer, and general manager. The students will better appreciate the perspectives that each of these personas brings to their role and how that affects the "delivered" quality that customers actually experience. The course will also help students understand how to assess customer business outcomes, expectations and measure customer experience. Finally, the class will provide exposure to current industry practices and include guest speakers who can give real-world examples relevant to software quality management.
+
+EGRMGMT 590-01: Software, Solution & Enterprise Architecture- Students learn the concepts and principles about how a software system is constructed at the highest level. Software architecture is the fundamental design of the entire system. It defines what elements are included in the system, what function each element has, and how each element relates to one another. In short, it is the big picture or overall structure of the whole system, how the enterprise technology system works together. Having a clear design of the overall system as a starting point helps to provide a solid basis for developers to follow and it allows higher productivity and software quality. Students immerse themselves into architecture understanding from multiple perspectives through various UML diagrams including different software architectures frameworks, when and how they are used, their advantages and disadvantages. Software architecture is tied to many practical business concerns. These include the skills and organization of the software engineering team, the needs of the business, the development cycle, and the intent of the software itself.
+
+EGRMGMT 590-03: Software Business Management- In today’s world software is pervasive in most if not all companies. A software business is a commercial activity aimed at producing, buying, and selling software products or services. Well-run software companies are known for their high profit margins. This course will focus on understanding the key success factors for software organizations to drive their portfolio strategy by mapping out monetization models, pricing, vendor management, professional services, development & continuous delivery, road mapping & maintenance.
+
+EGRMGMT 590-05: Software Business Management- In today’s world software is pervasive in most if not all companies.  A software business is a commercial activity aimed at producing, buying, and selling software products or services.  Well-run software companies are known for their high profit margins. This course will focus on understanding the key success factors for software organizations to drive their portfolio strategy by mapping out monetization models, pricing, vendor management, professional services, development & continuous delivery, road mapping & maintenance.
+
+STA 640: Causal Inference- Statistical issues in causality and methods for estimating causal effects. Randomized designs and alternative designs and methods for when randomization is infeasible: matching methods, propensity scores, longitudinal treatments, regression discontinuity, instrumental variables, and principal stratification. Methods are motivated by examples from social sciences, policy and health sciences.
+
+STA 663: Statistical Computation- Statistical modeling and machine learning involving large data sets and challenging computation. Data pipelines and data bases, big data tools, sequential algorithms and subsampling methods for massive data sets, efficient programming for multi-core and cluster machines, including topics drawn from GPU programming, cloud computing, Map/Reduce and general tools of distributed computing environments. Intense use of statistical and data manipulation software will be required. Data from areas such as astronomy, genomics, finance, social media, networks, neuroscience.
+
+AIPI 549: Industry Project- Students will work in teams of 3-5 to complete a Machine Learning/Artificial Intelligence project for a company sponsor around a real-world problem or opportunity they are facing. The project will require students to put into practice many of the skills learned during the program, including both technical and non-technical.  Students will have the opportunity to engage directly with representatives from their company partner organization as well as receive guidance from Duke faculty members over the course of the project.  The team will present their final deliverables to a sponsor panel and/or an external review panel.
+
+MENG 550: Master of Engineering Internship or Project- Internships are typically 8-12 weeks. The minimum hourly requirement for the internship is 320 hours, equivalent to 8 weeks, 40 hours per week. Projects require approval from the AIPI program director. Projects must fulfill the same learning objectives as internships. Although students are responsible for finding their own internship, Duke provides an experienced career development team to help with your search.
+All internships/projects must: Apply engineering principles to solving one or more problems outside the classroom environment
+Define a problem and determine potential solutions
+Appreciate the importance of organizational dynamics and work relationships
+Practice professional communication both written and orally
+Complement material presented in the AIPI courses
+Include a self-assessment upon completion in AIPI 551
+
+MENG 551: Master of Engineering Internship or Project Assessment- This assessment course is the culmination of your internship or project work. You will prepare a substantive assessment of your internship or project experience via a written report and/or oral presentation. A polished analysis should include:
+Problem or task conducted
+Challenges faced
+Solutions incorporated
+Workplace communication and interpersonal relationship critique
+Individual performance review
+
+
+The Duke Difference: AI and Machine Learning
+WHY JOIN DUKE AI?
+Duke's AI Master of Engineering develops technical leaders who are equipped to build our future through AI and machine learning. Students build strong technical skills together with an understanding of how to design and build software products, positioning them to build new AI products and systems that solve the challenging problems our world faces.  
+
+Our unique program differentiates itself through:
+
+A strong focus on applied machine learning and MLOps to solve real-world problems
+An experiential model of education where students learn by doing, building a portfolio of personal and team projects to show potential employers
+A heavy emphasis on industry collaboration, with students engaging with industry leaders during their capstone projects, industry seminars, and internships
+A small, intimate cohort and emphasis on small class sizes and close interaction between students and our leading faculty
+WE WELCOME DIVERSE PARTICIPANTS
+The Duke AI program is designed for engineers and scientists from all regions of the world with a variety of technical and scientific backgrounds. We intentionally cultivate a diverse group of students passionate about several different fields and industries. Roughly half of our students join the program directly after their undergraduate studies, and the other half join after gaining work experience.
+
+Many students enter the program with a strong prior background in programming or software development, while others enter with less programming experience but stronger domain-specific expertise. The unique design of our program accommodates both types of participants.
+
+Browse student profiles:
+
+Eduardo Martinez, Class of 2022
+Shyamal Anadkat, Class of 2022
+Christine Park & Miranda Morris, Barr-Spach Scholarship Recipients, Class of 2022
+AN INTERDISCIPLINARY EXPERIENCE
+At Duke Engineering, technical training is combined with management courses, industry seminars, a real-world capstone project and an industry internship to provide a well-rounded educational experience that develops both the hard skills and soft skills needed to succeed.
+
+Explore the Curriculum »
+
+A FLEXIBLE DEGREE DESIGNED FOR YOU
+On-campus or online
+
+Duke has you covered: Study on-campus or online. Start with the summer pre-program online data science and programming boot camp. Finish in as little as 12 months of full-time study through the accelerated course schedule, or stay for a third semester and focus on industry-oriented electives.
+
+Browse course descriptions »
+
+PARTNERED WITH INDUSTRY
+Duke's AI curriculum was created from scratch and designed with heavy input from AI leaders across industries.  
+
+Our faculty come with experience at the top of the tech industry and in successful startups prior to joining Duke.
+
+We work closely with industry partners who provide real-world examples for your Capstone Project experience, including some of the leading large techology, healthcare IT, and retail companies.
+
+Meet our faculty »
+
+GREAT GRADUATE OUTCOMES
+Duke’s Pratt School of Engineering is a vibrant teaching and research school set in one of the world's leading universities.  Our graduates are a global alumni network of leaders spanning multinational companies, small businesses, and high-growth startups.  
+
+Duke AI students go into some of the most in-demand and exciting job roles available, such as ML Engineers, AI Engineers, and Data Scientists. Our students join companies across a variety of industries who are leading the way in applying AI/ML to their businesses.
+
+Learn about outcomes »
+
+DUKE: A LEADER IN CREATING EDUCATIONAL PROGRAMS IN EMERGING FIELDS
+The Duke AI Master of Engineering program is a part of Duke Engineering's Institute for Enterprise Engineering, which provides high-impact professional education to meet fast-evolving industry needs. These programs draw on Duke Engineering’s research and educational strengths in:
+
+Computing Fundamentals
+AI and Machine Learning
+Cybersecurity
+FinTech, including Blockchain
+Engineering Management
+Learning opportunities are offered online and on-campus and include degree programs, graduate certificates, online credentials, and short courses. 
+
+We give working professionals and industry partners powerful tools to improve organizational performance and accelerate product innovation.
+
+More about Duke Engineering's Institute for Enterprise Engineering »
+
+Graduate Outcomes
+Boost your career trajectory with Duke AI Master of Engineering
+
+Duke AI students go into some of the most in-demand and exciting job roles available.  The most common job titles for graduates are: ML Engineer / Senior ML Engineer, AI Engineer, and Data Scientist / Senior Data Scientist.  Our program has a 100% placement rate within 6 months of graduation. Our median starting salary for graduates over the past 2 years is $118,000 and compensation varies based on location and prior work experience.
+
+Our best-in-class student experience includes access to a dedicated career services team, networking opportunities, and employer recruitment events.
+
+SELECTED GRADUATE EMPLOYERS
+Our students join organizations leading the way in AI/ML
+
+OpenAI
+Target's AI Lab
+Eli Lilly
+Grubhub
+Samsung
+IBM
+DoorDash
+Fidelity
+Intuit
+AutoDesk
+Ancestry
+Morgan Stanley
+GE
+And many more
+
+AI Foundations for Product Innovation Graduate Certificate
+A 4-course online program in AI and Machine Learning designed for working professionals
+
+Those who have knowledge of AI and machine learning have an advantage. Earn this Duke standalone, credit-bearing, non-degree offering in 15 months by completing:
+
+A Python and data science math pre-program boot camp
+Four (4) technical core courses in AI and machine learning
+Learn online and pay tuition per course, without the commitment of a traditional degree program.
+
+Extensive programming experience is not required, but the following are recommended:
+
+An undergraduate degree in science or engineering (or equivalent technical work experience);
+A minimum of one (1) semester of programming (any language);
+Two (2) semesters of calculus
+Students who enroll and complete the certificate will have the option to subsequently apply for the online Duke AI Master of Engineering degree (details below).
+
+Join our mailing list to receive updates!
+
+COURSES
+
+Summer (Pre-Program) - Python & Data Science Math Boot Camp
+Fall 1 - AIPI 510: Sourcing Data for Analytics
+Spring 1 - AIPI 520: Modeling Process & Algorithms
+Summer 1 - AIPI 540: Building Products Using Deep Learning
+Fall 2 - Departmental Technical Elective
+
+Admissions Policies and Practices
+
+This certificate program is open to all qualified applicants worldwide. Applications are accepted for the certificate program for the fall semester only, and participants are expected to be working full-time while completing the Certificate program.
+
+An application for the AI Foundations for Product Innovation graduate certificate program requires the following:
+
+A bachelor’s degree in engineering or science from an accredited institution (transcripts required, including an estimated GPA and a grade scale)
+Statement of purpose
+Résumé
+Two recommendations
+English Language Testing (TOEFL or IELTS): official results required—international applicants only
+Video introduction
+This is a standalone certificate program and does not qualify international students for US visa sponsorship.
+
+
+For students joining the certificate program in the 2023-24 academic year, a limited number of merit-based scholarships are available.
+
+All applicants will be automatically considered for the available scholarships based on their application materials.
+
+
+Students who enroll and successfully complete the certificate requirements will have the option to subsequently apply for the online Duke AI for Product Innovation Master of Engineering within four years, and use their certificate courses (12.0 course credits) toward the degree (30.0 course credits), as long as they earn a grade of B or better in each class.
+
+Certificate holders who apply to the online Duke AI for Product Innovation Master of Engineering program will additionally be required to provide GRE scores (if required at time of application). GRE scores are optional for the 2023-24 admissions cycle.
+
+Applicants who are accepted will then need to complete the remaining requirements for the degree: typically, four electives, two Master of Engineering management core courses, and the required on-campus residencies in Durham, NC.
+
+This is not an offer of preferential admission, and there is no guarantee of admission. See our academic policy bulletin for the most current details.
+
+This standalone online certificate program is not yet eligible for VA benefits or federal student aid. Please check back for updates.
+
+Please Note: This standalone online certificate program does NOT qualify students for U.S. visa sponsorship.
+
+PROGRAM LENGTH
+Typically 15 months (1 course per semester, including summer)
+STUDENT LOANS
+Information about average student debt, monthly debt expense and debt interest rate have been withheld since fewer than 10 students have completed this program
+JOB PLACEMENT RATES
+We are not currently required to calculate a job placement rate for program completers
+Program graduates are employed in the following fields:
+Information Technology
+Manufacturing
+Science, Technology, Engineering, and Mathematics
+Transportation, Distribution, and Logistics
+The program does not meet any licensing requirements
+Additional Information: Date Created 3/15/2021
+* These disclosures are required by the U.S. Department of Education
+
+Faculty
+
+Director - Jon Reifschneider
+
+AI AND MACHINE LEARNING TECHNICAL FACULTY
+- Brinnae Bent: Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+- Xu Chen: Adjunct Assistant Professor in the Pratt School of Engineering
+- Alfredo Deza: Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+- Noah Gift: Adjunct Associate Professor in the Pratt School of Engineering
+- Wann-Jiun Ma: Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+- Pramod Singh: Adjunct Associate Professor in the Engineering Graduate and Professional Programs
+- Natalia Summerville: Adjunct Associate Professor in the Engineering Graduate and Professional Programs
+- Jeffrey D Ward: Associate Dean for Technology and Innovation in the Duke Law School
+
+How to Apply
+Thank you for your interest in our program!
+
+Our program uses a rolling admissions process that evaluates applications as they are submitted and returns decisions in a timely manner. Find out how to apply and see our schedule of application deadlines below.
+
+If you have questions, please contact our Admissions team at pratt_masters@duke.edu.
+
+Master of Engineering Program
+The Duke AI Master of Engineering (MEng) program is designed to be accessible to participants from a variety of engineering and science backgrounds. Applicants should have:
+
+An undergraduate degree in science or engineering (or equivalent technical work experience if your degree is in a non-technical field), and
+A minimum of one (1) semester of programming (any language), and
+Sufficient DUOLINGO, IELTS, or TOEFL English Language Testing scores (official result required; international students only), and
+Two (2) semesters of calculus
+Prior coursework in probability and statistics and linear algebra is highly encouraged, but not required for admission.
+
+Graduate Certificate Program
+The Duke AI Foundations for Product Innovation Graduate Certificate is designed for working professionals with a technical or scientific background. Participants are expected to be working full-time while completing the Certificate program. Applicants should have:
+
+An undergraduate degree in science or engineering (or equivalent technical work experience if your degree is in a non-technical field), and
+A minimum of one (1) semester of programming (any language), and
+Sufficient DUOLINGO, IELTS, or TOEFL English Language Testing scores (official result required; international students only), and
+Two (2) semesters of calculus
+International applicants - please note that this standalone certificate program does not qualify students for US visa sponsorship.
+
+
+Application Fee US$75
+ 	 Paid by credit card with your application. Fee waivers »
+Documentation of your Bachelor's Degree, in engineering or science from an accredited institution:
+ 	Transcripts (or, for institutions not using a 4.0 system, estimated GPA and grade scale)
+Other Items:
+ 	Short Answer Essays
+ 	Resume
+ 	Three (3) Recommendations
+ 	Video Introduction
+International Applicants:
+ 	English Language Testing official results
+Optional for 2024 Applicants:
+ 	Graduate Record Exam (GRE) official results, or equivalent exam
+
+For Fall Entry
+
+The Artificial Intelligence Master of Engineering and Graduate Certificate programs review applications on a rolling basis. Applications submitted earlier than the deadlines listed below will likely receive an earlier response.
+
+
+ON-CAMPUS Master of Engineering
+
+Application Round 1: Applications received by January 15; Decision Notification by March 15; Reply Required by April 15.
+Application Round 2: Applications received by March 15; Decision Notification by April 15; Reply Required by May 1.
+ONLINE Master of Engineering
+
+Application Round 1: Applications received by January 15; Decision Notification by March 15; Reply Required by April 15.
+Application Round 2: Applications received by April 15; Decision Notification by May 15; Reply Required by June 1.
+ONLINE Certificate Program
+
+Application Round 1: Applications received by January 15; Decision Notification by March 15; Reply Required by April 15.
+Application Round 2: Applications received by April 15; Decision Notification by May 15; Reply Required by June 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
