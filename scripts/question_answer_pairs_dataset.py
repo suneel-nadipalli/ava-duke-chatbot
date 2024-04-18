@@ -1,13 +1,25 @@
 
 import os
+
 import re
+
 import csv
+
 import certifi
+
 import numpy as np
+
 from pymongo import MongoClient
+
 from sentence_transformers import SentenceTransformer
+
 from sklearn.metrics.pairwise import cosine_similarity
+
 import openai
+
+import sys
+
+sys.path.append('..')
 
 import configparser
 

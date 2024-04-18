@@ -2,6 +2,8 @@
 
 By Daniel Medina, Suneel Nadipalli, Sri Veerisetti, Dominique Buford
 
+Deployed URL: https://aipi-chatbot-frontend.vercel.app/
+
 Project frontend: https://github.com/medinardaniel/aipi-chatbot-frontend
 
 Project backend: https://github.com/medinardaniel/aipi-chatbot-flask
@@ -26,9 +28,12 @@ This project involves creating a chatbot assistant designed to answer questions 
 - **Process**:
   1. Format the prompt into a template suitable for model input.
   2. Tokenize the formatted prompt.
-  3. Utilize the Mistral7B model with a BitsAndBytes config.
-  4. Convert model to PEFT (PyTorch Efficient Finetuning) format.
-  5. Set LORA (Low-Rank Adaptation) parameters and general model parameters.
+  3. Load in the base ***Mistral-7B model***.
+  4. Set up a BitsandBytes config to enable quantization.
+  5. Convert model to PEFT (Parameter Efficient Fine-Tuning) format.
+  6. Set LORA (Low-Rank Adaptation) parameters and general model parameters.
+  7. Fine-Tune the ***Mistral-7B model***.
+  8. Model configurations/parameters can be found in configs/config.ini
 
 ## Application Architecture
 
@@ -39,7 +44,22 @@ This project involves creating a chatbot assistant designed to answer questions 
   2. MongoDB Atlas vector search retrieves similar data chunks.
   3. A dedicated fine-tuned model endpoint in Hugging Face processes the most similar chunk and user message to generate responses.
  
-![AIPI Chatbot Architecture](aipi-chatbot-arch.png)
+![AIPI Chatbot Architecture](configs/aipi-chatbot-arch.png)
+
+## Operation Costs and Cost Minimization
+
+### Operation Costs
+
+- GIST Embedding API: $0.5/hr
+- Fine-Tuned Q&A Model API: $0.5/hr
+- Frontend Deployment: $0/hr
+- Backend Deployment: $0/hr
+
+Overall, to run for a day, it would cost $24/hr.
+
+### Cost Minimization
+
+In order to minimize costs, we used the cheapest GPU option available on HuggingFace.
 
 ## Evaluation
 
