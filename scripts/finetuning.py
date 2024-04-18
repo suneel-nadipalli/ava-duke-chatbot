@@ -14,6 +14,10 @@ from transformers import (
     BitsAndBytesConfig  
 )
 
+import sys
+
+sys.path.append('..')
+
 import configparser
 
 config = configparser.ConfigParser()

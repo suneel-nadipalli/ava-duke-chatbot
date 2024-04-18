@@ -4,6 +4,10 @@ import pandas as pd
 
 from sklearn.model_selection import train_test_split
 
+import sys
+
+sys.path.append('..')
+
 def create_hf_ds(data_path, hf_ds_name):
     """
     Purpose: Create a Hugging Face dataset from the question-answer pairs.

@@ -1,18 +1,32 @@
-
 import os
+
 import re
+
 import csv
+
 import certifi
+
 import requests
+
 import numpy as np
+
 import pandas as pd
+
 import pymongo
+
 from pymongo import MongoClient
+
 from sentence_transformers import SentenceTransformer
+
 from sklearn.metrics.pairwise import cosine_similarity
+
 import openai
 
 import configparser
+
+import sys
+
+sys.path.append('..')
 
 config = configparser.ConfigParser()
 

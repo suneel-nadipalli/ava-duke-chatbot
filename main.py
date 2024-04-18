@@ -12,13 +12,15 @@ from scripts.question_answer_pairs_dataset import *
 
 from scripts.create_hf_dataset import *
 
-folder_path = "data/raw"
+from scripts.evaluation import *
 
-input_questions_path = 'data/processed/questions.csv'
+folder_path = "./data/raw"
 
-rephrased_questions_path = 'data/processed/rephrased_questions.csv'  
+input_questions_path = './data/processed/questions.csv'
 
-output_qa_pairs_path = 'data/processed/qac_pairs_700_chunk_size_150.csv'
+rephrased_questions_path = './data/processed/rephrased_questions.csv'  
+
+output_qa_pairs_path = './data/processed/qac_pairs_700_chunk_size_150.csv'
 
 MODEL_NAME = "mistralai/Mistral-7B-v0.1"
 
@@ -87,6 +89,12 @@ print("Done Training!")
 deploy_model(model, bnb_config, MODEL_NAME, PEFT_MODEL)
 
 print("Model Deployed!")
+
+# Evaluate the model
+
+eval()
+
+print("Evaluation Done!")
 
 # handler = prep_handler(MODEL_ID)
 

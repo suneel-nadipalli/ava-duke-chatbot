@@ -28,6 +28,10 @@ import huggingface_hub
 
 import configparser
 
+import sys
+
+sys.path.append('..')
+
 config = configparser.ConfigParser()
 
 config.read('configs/config.ini')

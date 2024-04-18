@@ -8,6 +8,10 @@ config.read('configs/config.ini')
 
 SECRETS = config['SECRETS']
 
+import sys
+
+sys.path.append('..')
+
 
 def query(payload):
     """
