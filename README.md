@@ -55,7 +55,7 @@ This project involves creating a chatbot assistant designed to answer questions 
 - Frontend Deployment: $0/hr
 - Backend Deployment: $0/hr
 
-Overall, to run for a day, it would cost $24/hr.
+Overall, it would cost **$24/day**.
 
 ### Cost Minimization
 
